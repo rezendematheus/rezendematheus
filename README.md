@@ -6,11 +6,11 @@
 <div width="100%" height="1" background-color= "#b1b1b1"></div>
 - ✍ You can find my projects in my repositories <br />
 - 🔭 I’m currently working on my site <br />
-- 🌱 I’m currently learning React.js and git <br />
+- 🌱 I’m currently learning Postgres SQL <br />
 - 👯 I’m looking to collaborate on open source <br />
-- 💬 Ask me about ... Anything <br />
+- 💬 Ask me about which game I'm currently playing <br />
 - 😄 Pronouns: He/Him <br />
-- ⚡ Fun fact: I have a hobby in PC hardware <br />
+- ⚡ Fun fact: I have a hobby in PC hardware and peripherals<br />
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
