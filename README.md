@@ -6,10 +6,9 @@
 <div width="100%" height="1" background-color= "#b1b1b1"></div>
 - ✍ You can find my projects in my repositories <br />
 - 🔭 I’m currently working on my site <br />
-- 📚 I’m currently learning TailwindCSS <br />
+- 📚 I’m currently learning Java <br />
 - 🌱 I’m looking to a constant self improvement with mindfulness<br />
 - 💬 Ask me about which programming language I'm currently learning <br />
-- 😄 Pronouns: He/Him <br />
 - ⚡ Fun fact: I have a hobby in PC hardware and keyboards<br />
 
 ### Languages and Tools:
