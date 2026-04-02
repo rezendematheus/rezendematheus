@@ -20,19 +20,6 @@
 <br />
 <br />
 <br />
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Matheus's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rezendematheus&show_icons=true&hide_border=true" />
-
-</details>
-<details>
-  <summary>:zap: Most Used Languages</summary>
-
-<img align="left" alt="Matheus's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezendematheus" />
-
-</details>
 <!--
 **rezendematheus/rezendematheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
